@@ -1,0 +1,5 @@
+tasks:
+  - name: Start
+
+image:
+  file: .gitpod.Dockerfile
